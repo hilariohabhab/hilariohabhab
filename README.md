@@ -11,8 +11,8 @@
 <br>
 
 <div>
-<img height='200' src='https://github-readme-stats.vercel.app/api?username=hilariohabhab&show_icons=true&theme=radical&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'/>
-<img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hilariohabhab&layout=compact&langs_count=16&theme=radical'/>
+<img height='150' src='https://github-readme-stats.vercel.app/api?username=hilariohabhab&show_icons=true&theme=radical&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'/>
+<img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hilariohabhab&layout=compact&langs_count=16&theme=radical'/>
 </div>
 
 
