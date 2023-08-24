@@ -7,17 +7,19 @@
 
 ![Mohamad GitHub stats](https://github-readme-stats.vercel.app/api?username=hilariohabhab&show_icons=true&theme=radical&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)
 
+
+
 ### Tecnologias que utilizo no meu dia a dia!
 
 <div style='display: inline-block'>
     <img align='center' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html5'>
     <img align='center' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css3'>
     <img align='center' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript'>
-    <img align='center' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='typescript'>
     <img align='center' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React'>
-    <img align='center' src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' alt='Vuejs'>
-    <img align='center' src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular'>
+    <img align='center' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='typescript'>
+    <img align='center' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Nodejs'>
 </div><br>
+
 
 Estudante de programação Full-Stack na <strong>Kenzie Academy</strong> com mais de <strong> 1000 horas </strong> de curso e <em>freelancer</em> em front-end.
 
@@ -30,3 +32,5 @@ Estudante de programação Full-Stack na <strong>Kenzie Academy</strong> com mai
 
 
 ### E-mail para trabalho: hilariohabhab@hotmail.com
+
+
